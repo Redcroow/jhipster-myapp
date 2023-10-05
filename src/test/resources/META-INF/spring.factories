@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.cogenio.\
+    jhipstermyapp.config.SqlTestContainersSpringContextCustomizerFactory
